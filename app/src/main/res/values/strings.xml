@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">body mash</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="hint_wt">Enter your weight</string>
+    <string name="hint_hft">Enter your height in ft</string>
+    <string name="hint_hti">Enter your height in (inc)</string>
+
+
+</resources>
